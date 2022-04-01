@@ -1,0 +1,11 @@
+{
+    "endpoints" : {
+        "backendURL" : "https://secusmart-column-1.wire.link",
+        "backendWSURL" : "https://nginz-https.secusmart-column-1.wire.link",
+        "blackListURL" : "https://clientblacklist.wire.com/staging",
+        "teamsURL" : "https://teams.secusmart-column-1.wire.link",
+        "accountsURL" : "https://account.secusmart-column-1.wire.link",
+        "websiteURL" : "https://wire.com"
+    },
+    "title" : "Secusmart Column 1"
+}
